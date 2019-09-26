@@ -1,0 +1,15 @@
+{
+    "name": "CardGame",
+    "references": [
+        "GUID:e0ae03b2d553b1542a657baab84f086b"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}

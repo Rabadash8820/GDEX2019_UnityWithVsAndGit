@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CardGame {
+namespace Cards {
 
     public class CardDealer {
 

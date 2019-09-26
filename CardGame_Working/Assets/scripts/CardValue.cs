@@ -1,4 +1,4 @@
-﻿namespace CardGame {
+﻿namespace Cards {
     public enum CardValue {
         Two = 2,
         Three,

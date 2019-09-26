@@ -1,4 +1,4 @@
-﻿namespace CardGame {
+﻿namespace Cards {
     public enum Suit {
         Clubs,
         Spades,

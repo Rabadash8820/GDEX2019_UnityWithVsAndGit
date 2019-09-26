@@ -1,4 +1,4 @@
-﻿namespace CardGame {
+﻿namespace Cards {
     public struct Card {
 
         public Card(CardValue value, Suit suit) : this(suit, value) { }

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cards\Cards.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\Program Files\Unity\Hub\Editor\2019.1.6f1\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="CopyBuildOuputsToUnity" AfterTargets="Build">
+    <Move SourceFiles="$(OutDir)\$(ProjectName).dll" DestinationFolder="..\..\$(SolutionName)\Assets\Plugins" />
+    <Move SourceFiles="$(OutDir)\$(ProjectName).pdb" DestinationFolder="..\..\$(SolutionName)\Assets\Plugins" />
+    <Move SourceFiles="$(OutDir)\Cards.dll" DestinationFolder="..\..\$(SolutionName)\Assets\Plugins" />
+    <Move SourceFiles="$(OutDir)\Cards.pdb" DestinationFolder="..\..\$(SolutionName)\Assets\Plugins" />
+  </Target>
+
+</Project>

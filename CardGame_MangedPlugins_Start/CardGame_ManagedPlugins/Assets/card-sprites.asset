@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2111764182, guid: 44447adb16948ec49bab7160cc47c3cf, type: 3}
+  m_Name: card-sprites
+  m_EditorClassIdentifier: 
+  TwoClubs: {fileID: 21300000, guid: f56cb8302d03b994db50c044c9ac09d6, type: 3}
+  TwoSpades: {fileID: 21300000, guid: a9faac26300c7b84781982b076c6f4df, type: 3}
+  TwoHearts: {fileID: 21300000, guid: d4f6915bd4baffa439fbb043f00fdf3c, type: 3}
+  TwoDiamonds: {fileID: 21300000, guid: f442d8ba7d5cdab4fa92f68891a86369, type: 3}
+  ThreeClubs: {fileID: 21300000, guid: f1bf2cdb770368d4fb95876887f0bf18, type: 3}
+  ThreeSpades: {fileID: 21300000, guid: 9e3afdc742aaa014e958650a76ff2610, type: 3}
+  ThreeHearts: {fileID: 21300000, guid: c58ec77d7235a454d958fafff4ec8b76, type: 3}
+  ThreeDiamonds: {fileID: 21300000, guid: ddbc85359e4db074682b466116dd69c6, type: 3}
+  FourClubs: {fileID: 21300000, guid: 46b83144fa9a6444789e2f5fdc17e020, type: 3}
+  FourSpades: {fileID: 21300000, guid: 690f16a478faf8847bea0800f39bcb84, type: 3}
+  FourHearts: {fileID: 21300000, guid: 3ad7754dae7e42f43896ad2431bfbc71, type: 3}
+  FourDiamonds: {fileID: 21300000, guid: 8e3a954881616414b92de2b68313b7e3, type: 3}
+  FiveClubs: {fileID: 21300000, guid: 6f1ef213739b42d4e9bf77b24fc624f6, type: 3}
+  FiveSpades: {fileID: 21300000, guid: 6d03aa76e3ea7bf478c63b9547dc5242, type: 3}
+  FiveHearts: {fileID: 21300000, guid: 67c271f375088fc41838b09e329006fb, type: 3}
+  FiveDiamonds: {fileID: 21300000, guid: d6d1e432fc52d8449a58535e86e181a8, type: 3}
+  SixClubs: {fileID: 21300000, guid: caf82c90523926444b098ce2b1f4e1ec, type: 3}
+  SixSpades: {fileID: 21300000, guid: 3f86390f1a9e21e4cb1b6d742c1f30be, type: 3}
+  SixHearts: {fileID: 21300000, guid: b9616b7e593a16749926350d418c4d4d, type: 3}
+  SixDiamonds: {fileID: 21300000, guid: 6474067976b86784f807d2f4338fdac0, type: 3}
+  SevenClubs: {fileID: 21300000, guid: 467c81e62ad14904dab40311024e2143, type: 3}
+  SevenSpades: {fileID: 21300000, guid: 113f428db1898384fb4397de9d6cc655, type: 3}
+  SevenHearts: {fileID: 21300000, guid: fb32d336f35b5704f8246e271808983f, type: 3}
+  SevenDiamonds: {fileID: 21300000, guid: 24608e50763314b4e895b709e2632cf2, type: 3}
+  EightClubs: {fileID: 21300000, guid: 75128d1f04e17fc43a94cd23f58139f2, type: 3}
+  EightSpades: {fileID: 21300000, guid: 0485d5336c8a7414890107641d1945c0, type: 3}
+  EightHearts: {fileID: 21300000, guid: 1634221a6f1c55b499b0289b03632718, type: 3}
+  EightDiamonds: {fileID: 21300000, guid: 7c4efbcc71c82ff4294ca9277bf1b6e1, type: 3}
+  NineClubs: {fileID: 21300000, guid: 21fce68f38821174fb60c7954ac73714, type: 3}
+  NineSpades: {fileID: 21300000, guid: a2e548fb4a40a9b47a52ec7e192451b4, type: 3}
+  NineHearts: {fileID: 21300000, guid: 402b8f2c22af9bb4cb62267e6623eb8b, type: 3}
+  NineDiamonds: {fileID: 21300000, guid: f4e45a4104f1a534ebe3e2749edc4a1a, type: 3}
+  TenClubs: {fileID: 21300000, guid: 016937bca2077674097fe42c18ac0be9, type: 3}
+  TenSpades: {fileID: 21300000, guid: f824c8bbe1cc9ca45a0513a6fef40874, type: 3}
+  TenHearts: {fileID: 21300000, guid: 5b7a049658e96b341baef10e2b91c365, type: 3}
+  TenDiamonds: {fileID: 21300000, guid: 61374b3eb48929e46811a0bfc7f1a0e9, type: 3}
+  JackClubs: {fileID: 21300000, guid: cd9ec713dac465747b660c2b5cc1983f, type: 3}
+  JackSpades: {fileID: 21300000, guid: fb4969c05cc08d349847725450a854fa, type: 3}
+  JackHearts: {fileID: 21300000, guid: 86125ce0fdf21cc43bf7a97cb08c697a, type: 3}
+  JackDiamonds: {fileID: 21300000, guid: db214f7fa18161b44b4db61ceb075451, type: 3}
+  QueenClubs: {fileID: 21300000, guid: 7b8b58b112c41a84a88da12f08b349f2, type: 3}
+  QueenSpades: {fileID: 21300000, guid: 2ab1cf19a35b6b6468cae58c2b9255f7, type: 3}
+  QueenHearts: {fileID: 21300000, guid: 83d89941e3695ff4492339e2c1d5aab4, type: 3}
+  QueenDiamonds: {fileID: 21300000, guid: 7d59902c2ea287e4298eaeee5039bcfe, type: 3}
+  KingClubs: {fileID: 21300000, guid: 22eda59b1d2c9434a88a866e6547b747, type: 3}
+  KingSpades: {fileID: 21300000, guid: f1433fa339ff9484fb2931ca550733f7, type: 3}
+  KingHearts: {fileID: 21300000, guid: f45ad42abd3013742b1adc06df8b7bfe, type: 3}
+  KingDiamonds: {fileID: 21300000, guid: ffb989228d64b32429d92d0e8b2837f2, type: 3}
+  AceClubs: {fileID: 21300000, guid: 93fc9d19bf93a954f94378ef54f0d9de, type: 3}
+  AceSpades: {fileID: 21300000, guid: 324bb7653bf3c8142bb24d0ba3888a55, type: 3}
+  AceHearts: {fileID: 21300000, guid: 3153e8cb16ed454489da38668217e149, type: 3}
+  AceDiamonds: {fileID: 21300000, guid: 8fbe76b624e76e64996d4126fb984fe7, type: 3}

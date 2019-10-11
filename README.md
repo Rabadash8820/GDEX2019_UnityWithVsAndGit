@@ -15,3 +15,7 @@ These are the files for Dan Vicarel's GDEX 2019 Presentation: "Supercharging You
     - Search `Visual Studio Tools for Unity` under `Online`
     - Select `Download`
 - If you don't already have Unity and Visual Studio installed, then try to just follow along. Both programs are large and take a long time to download/install.
+- Open at least the following project folders in Unity, as it will take several minutes for assets to import and you don't want to wait for that during the talk:
+    - `CardGame_NeedsDebug_Start`
+    - `CardGame_AsmDef_Start`
+    - `CardGame_ManagedPlugins_Start/CardGame_ManagedPlugins`

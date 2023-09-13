@@ -1,6 +1,7 @@
 # Unity With Visual Studio and Git
 
-These are the files for Dan Vicarel's GDEX 2019 Presentation: "Supercharging Your Unity Workflow With Visual Studio and Git"
+These are the files for Dan Vicarel's GDEX 2019 Presentation: "Supercharging Your Unity Workflow With Visual Studio and Git".
+Check out the [accompanying slides](https://1drv.ms/p/s!Apw9vDm6ePFBgasohoUml3N47t7mig?e=EFenI9).
 
 - Click `Clone or Download` then `Download ZIP` to get these files (or clone, if you already know some Git!)
 - To make following the demos easier later, please download/install the following:
